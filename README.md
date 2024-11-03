@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🧑‍💻 Felipe Lohr
 
-<!--
-**lohr-1/lohr-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Artesão Digital (Desenvolvedor/Editor/Videomaker)`**
 
-Here are some ideas to get you started:
+Sou um Estudante de Engenharia da Computação, apaixonado pela tecnológia e atividades que trabalham a criatividade como música, leitura e escrita. Todos os projetos aqui são feitas do zero, com apenas algumas instruções dadas pelo professor/profissinal. Gosto de estar sempre um passo a frente, por estou sempre tentando aprender algo novo, essa é minha paixão, não ficar parado e confortável em um só lugar. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+<p>
+<p align="left">
+    Redes Sociais:
+	<div>
+        <div>
+            <a href="https://www.instagram.com/akalohr/">
+            <img alt="" src="img/instagram.png"> <p></a>
+        </div>
+    </div>
+    <div>
+        <div>
+            <a href="https://www.linkedin.com/in/felipe-lohr-683329303/">
+            <img src="img/linkedin.png"></a>
+        </div>
+    </div>
+</p>
+
+<hr>
+
+###
+
