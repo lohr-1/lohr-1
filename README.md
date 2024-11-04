@@ -7,7 +7,7 @@ Sou um Estudante de Engenharia da Computação, apaixonado pela tecnológia e at
 ### 
 <p align="left">
 Redes Sociais:<br>
-	<i>Instagram:<a href="https://www.instagram.com/akalohr/">
+	<b><i>Instagram:<a href="https://www.instagram.com/akalohr/">
 		<b><i>@akalohr<p></a>
 	LinkeIn:<a href="https://www.linkedin.com/in/felipe-lohr-683329303/">
 		<b><i>felipe-lohr</a>
