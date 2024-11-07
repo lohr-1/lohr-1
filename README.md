@@ -16,7 +16,7 @@ Redes Sociais:<br>
 
 ###
 
-# 💻 Linguagens e Tecnologias
+# 💻 Tech Stack
 
 
 Frameworks:
