@@ -9,7 +9,7 @@ I am a Computer Engineering student, passionate about technology and activities 
 Social:<br>
 	<b><i>Instagram:<a href="https://www.instagram.com/akalohr/">
 		@akalohr<p></a>
-	LinkeIn:<a href="https://www.linkedin.com/in/felipe-lohr-683329303/">
+	LinkeIn:<a href="https://www.linkedin.com/in/felipe-lohr-683329303/" target="_blank">
 		felipe-lohr</a></b></i>
 </p>
 <hr>
