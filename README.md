@@ -1,6 +1,6 @@
 # 🧑‍💻 Felipe Lohr
 
-**`Digital Craftsman (Desenvolvedor/Editor/Videomaker)`**
+**`Digital Craftsman (Dev/Editor/Videomaker)`**
 
 I am a Computer Engineering student, passionate about technology and activities that foster creativity, such as music, reading, and writing. All projects here are built from scratch, with only a few instructions provided by the professor/professional. I enjoy staying one step ahead, so I am always striving to learn something new—this is my passion, not remaining stagnant or comfortable in one place.
  
