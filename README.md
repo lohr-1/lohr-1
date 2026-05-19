@@ -1,23 +1,27 @@
 # Felipe Lohr
 
-**Frontend Developer | UX/UI Designer | Software Engineering Student**
+**Product Designer | UX/UI Designer | Frontend Developer | Software Engineering Student**
 
-Software Engineering student building scalable SaaS applications and modern web interfaces.
+I design and build digital products that combine user-centered design with technical feasibility.
 
-My work sits at the intersection of **frontend engineering, product design, and system validation**, allowing me to design interfaces that are not only usable but also technically robust and production-ready.
+My work sits at the intersection of **UX/UI Design, Product Design, and Frontend Engineering**, allowing me to transform business requirements into scalable, intuitive, and production-ready solutions.
 
-I enjoy solving complex problems, designing modular UI systems, and collaborating with engineering teams to transform product ideas into reliable software.
+I have experience designing complex interfaces, SaaS platforms, dashboards, and design systems, while collaborating closely with engineering teams to ensure consistency between design and implementation.
+
+With knowledge of technologies such as **React, Flutter, and API integrations**, I approach product design with a strong understanding of system architecture, performance, and scalability.
+
+I enjoy solving complex problems, structuring modular UI systems, and creating digital experiences that are both visually clear and technically robust.
 
 ---
 
-# What I’m currently working on
+## What I'm Currently Working On
 
-- Frontend development (React / Web interfaces)
-- SaaS dashboards and data visualization
-- Design Systems and component architecture
-- Product usability and UX improvements
-- AI-assisted design workflows (Figma MCP + Claude)
-
+- UX/UI Design and Product Design
+- Frontend Development (React and Web Interfaces)
+- SaaS Dashboards and Data Visualization
+- Design Systems and Component Architecture
+- Usability and Product Improvements
+- AI-assisted Design Workflows (Figma MCP + Claude)
 ---
 
 # Tech Stack
